@@ -8,10 +8,7 @@ grade:
   -subject: English
     grade: I
   -subject: Science
-<<<<<<< HEAD
-    grade: H-
+    grade: I-
   -subject: Computer
     grade: H+  
-=======
-    grade: I-
->>>>>>> 8b85423403574f694237b9f11801cf4269d300cb
+    
